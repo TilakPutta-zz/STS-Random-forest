@@ -1,6 +1,6 @@
 # STS-Random-forest
-##Semantic textual Similarity tool which generates random forest model
-##How to use this STS tool:
+## Semantic textual Similarity tool which generates random forest model
+## How to use this STS tool:
 --------------------------
 1. Install Anaconda 2.7 
 2. install brown corpus,wordnet, punkt modules of nltk as below
