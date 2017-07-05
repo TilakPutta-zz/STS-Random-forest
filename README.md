@@ -1,2 +1,2 @@
 # STS-Random-forest
-Semantic textual Similarity tool which generates random forest model
+Semantic textual Similarity tool which generates random forest model.
