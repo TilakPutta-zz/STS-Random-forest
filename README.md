@@ -15,4 +15,4 @@
 7. now generate model.
 	Note: you should create a directory 'models' where the training dataset exists.
 8. input two sentences and press find desgree of equivalence.
-9. the screen will display the degree ranging from 0 to 5
+9. the screen will display the degree ranging from 0 to 5.
